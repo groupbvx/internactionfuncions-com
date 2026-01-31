@@ -1,0 +1,119 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "readMore": "Read more",
+    "readTime": "min read",
+    "publishedAt": "Published on",
+    "category": "Category",
+    "tags": "Tags",
+    "share": "Share",
+    "subscribe": "Subscribe",
+    "subscribed": "Subscribed",
+    "email": "Email",
+    "name": "Name",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm"
+  },
+  "nav": {
+    "home": "Home",
+    "articles": "Articles",
+    "tools": "Tools",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms of Use",
+    "sitemap": "Sitemap"
+  },
+  "home": {
+    "title": "Welcome",
+    "subtitle": "Your content portal",
+    "featuredArticle": "Featured Article",
+    "recentArticles": "Recent Articles",
+    "viewAll": "View all articles",
+    "newsletter": {
+      "title": "Free Newsletter",
+      "description": "Get the latest market news in your inbox",
+      "placeholder": "Enter your email",
+      "button": "Subscribe",
+      "success": "Successfully subscribed!",
+      "error": "Error subscribing",
+      "privacy": "By subscribing, you agree to our",
+      "privacyLink": "Privacy Policy"
+    }
+  },
+  "articles": {
+    "title": "Articles",
+    "allArticles": "All Articles",
+    "noArticles": "No articles found",
+    "loading": "Loading articles...",
+    "readMore": "Read full article",
+    "backToArticles": "Back to articles"
+  },
+  "article": {
+    "notFound": "Article not found",
+    "backToArticles": "Back to articles",
+    "relatedArticles": "Related Articles",
+    "newsletter": {
+      "title": "Enjoyed the article?",
+      "description": "Subscribe to receive more content like this."
+    }
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Type something to search",
+    "results": "Search Results",
+    "resultsFor": "Results for",
+    "noResults": "No results found for",
+    "resultsCount": "result",
+    "resultsCountPlural": "results",
+    "startSearch": "Enter a search term to begin",
+    "useSearchBar": "Use the search bar in the header to find articles."
+  },
+  "tools": {
+    "title": "Tools",
+    "subtitle": "Use our free tools to make smarter decisions.",
+    "availableSoon": "Available soon",
+    "access": "Access"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Learn about our mission and values"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Get in touch with us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "Your quality content portal about the topics you love.",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "copyright": "All rights reserved"
+  },
+  "errors": {
+    "404": {
+      "title": "404",
+      "message": "Page not found",
+      "backHome": "Back to home"
+    },
+    "generic": "An error occurred. Please try again later.",
+    "network": "Connection error. Check your internet."
+  }
+}
